@@ -2,10 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 [Material UI](https://material-ui.com/) was used for some of the components.
+The other resources used for some of the util functions are mentioned in the comments.
 
-## Available Scripts
+## Steps to run the app in local after cloning the project
 
 In the project directory, you can run:
+
+### `npm install`
 
 ### `npm start`
 
